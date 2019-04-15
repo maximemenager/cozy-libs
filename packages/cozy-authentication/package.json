@@ -36,7 +36,7 @@
     "cozy-flags": "1.6.0",
     "localforage": "1.7.3",
     "react-markdown": "4.0.6",
-    "url-polyfill": "1.1.0"
+    "url-polyfill": "1.1.5"
   },
   "jest": {
     "testURL": "http://localhost:8000",
